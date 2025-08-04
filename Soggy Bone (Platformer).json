@@ -6328,6 +6328,16 @@
                         "\"Checkpoint\"",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "Rotate"
+                      },
+                      "parameters": [
+                        "Portal",
+                        "23",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -6463,6 +6473,15 @@
                             "Animation",
                             "=",
                             "\"Activate\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
+                          },
+                          "parameters": [
+                            "TopBoundary",
+                            "Animation"
                           ]
                         }
                       ]
