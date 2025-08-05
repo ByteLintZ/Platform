@@ -834,6 +834,486 @@
           "identifier": "https://asset-resources.gdevelop.io/staging/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
           "name": "CantoraOne-Regular.ttf"
         }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/6af617b6a59c3ac99b48bfbae86ca3d0ed74c8e5abb65fc4b2126dd5cf0e55de_Control Panel_Deactivate_1.png",
+          "name": "Control Panel_Deactivate_1.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/67eae2501cd84f5081397a7a5687b0f840ee20c1499f209258224ac31ac72aa3_Control Panel_Deactivate_10.png",
+          "name": "Control Panel_Deactivate_10.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/3601c204f92cf05b4c1737faad2a3b2cfe3af73082176100906ac3609fc4cbff_Control Panel_Deactivate_11.png",
+          "name": "Control Panel_Deactivate_11.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/9273231e47359d4faeeb95b2bffe630fd3eaea700497b4ca142aa4a2a0af7ca6_Control Panel_Deactivate_12.png",
+          "name": "Control Panel_Deactivate_12.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_13.png",
+          "name": "Control Panel_Deactivate_13.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_14.png",
+          "name": "Control Panel_Deactivate_14.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4e631031d17746523220a122e853cf95ec146b541eb903e116990e9ce1d0d4ee_Control Panel_Deactivate_15.png",
+          "name": "Control Panel_Deactivate_15.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/0a46b6e1704522f79c219512f8f4edbeeb25ce147d5c9dbc0f7050040947e04d_Control Panel_Deactivate_16.png",
+          "name": "Control Panel_Deactivate_16.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/9273231e47359d4faeeb95b2bffe630fd3eaea700497b4ca142aa4a2a0af7ca6_Control Panel_Deactivate_17.png",
+          "name": "Control Panel_Deactivate_17.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/2c55e42503964381ae2134ff4ddffa65df361830306810b4bd86deb957f3ba5d_Control Panel_Deactivate_18.png",
+          "name": "Control Panel_Deactivate_18.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/2c55e42503964381ae2134ff4ddffa65df361830306810b4bd86deb957f3ba5d_Control Panel_Deactivate_19.png",
+          "name": "Control Panel_Deactivate_19.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/d6046787505f7f0193d3618e631982a8e61729dabe8e4d5112acb5eb653ce7ae_Control Panel_Deactivate_2.png",
+          "name": "Control Panel_Deactivate_2.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/bf9b6675dfed0a4e7c2a9b344985b4b86cda20cd3314916b60ab8d758a1f43c1_Control Panel_Deactivate_20.png",
+          "name": "Control Panel_Deactivate_20.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/3445fc993298d09a8e14c76b4572fd1e73ea1b7dce65c81178b877c6ac434d80_Control Panel_Deactivate_3.png",
+          "name": "Control Panel_Deactivate_3.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/e339ac2b839eaa98a2dcf4d4394003a75fc6c614b4769c1cfb9a7e236be49a45_Control Panel_Deactivate_4.png",
+          "name": "Control Panel_Deactivate_4.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/76e9f54e6618309c6374621abb4ed4026a36f28dfa1069ead22ab10956c120dd_Control Panel_Deactivate_5.png",
+          "name": "Control Panel_Deactivate_5.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/12daff03fcb64087bc8286d6eb25d329775f191351c72e83374cf721ee56ac23_Control Panel_Deactivate_6.png",
+          "name": "Control Panel_Deactivate_6.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/29fce274137079cee89ecc1d3e04fe68a5a88291d8a2227ac8473eebe545a3fc_Control Panel_Deactivate_7.png",
+          "name": "Control Panel_Deactivate_7.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/a16578483d3068acc1cc015faf85ba6e55265354b3df0547e75251863d0c1567_Control Panel_Deactivate_8.png",
+          "name": "Control Panel_Deactivate_8.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Deactivate_40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Deactivate_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/e24c42cf96fdb772302cf11ff4394b7a788048788f5883aa6044d1351719ec78_Control Panel_Deactivate_9.png",
+          "name": "Control Panel_Deactivate_9.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/84b87f600c3af2a50d1c33e52a19600bba97947f2efe6a9acd2d36f7daf1c888_Control Panel_Idle_1.png",
+          "name": "Control Panel_Idle_1.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/1a745b9985ff5549906059c9ec4df2a32599773eac682a324f783dec24c748d7_Control Panel_Idle_10.png",
+          "name": "Control Panel_Idle_10.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/dacc2a6ce064b747fc66f554385041f2131acf56c61455ad7cbd3ebfcf8d77db_Control Panel_Idle_11.png",
+          "name": "Control Panel_Idle_11.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/144c2da2e52e9fcc23c415e5a039cdba3e57ecdd73c5ef1b125697f9d57e67f7_Control Panel_Idle_12.png",
+          "name": "Control Panel_Idle_12.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/f39f988fa35da9c20d6363715069f4f94bd59762b4d9714926ff8705caf0e511_Control Panel_Idle_13.png",
+          "name": "Control Panel_Idle_13.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/f041cf40056393b2bc19c53b87da4a157ec4399a926b0e8dbcc78cbcae9a509d_Control Panel_Idle_14.png",
+          "name": "Control Panel_Idle_14.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4bdc0cbc1b2c09f42315a332ea23ef2f1bbd4a7fd12842e487e3995d58968161_Control Panel_Idle_15.png",
+          "name": "Control Panel_Idle_15.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/ca93aad286cc80fb522a09d34818ce161ac03d4b82fae965f5e9159fe3b5ee59_Control Panel_Idle_16.png",
+          "name": "Control Panel_Idle_16.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4bb00558864db9cfc1a3b414d502b1ef5496e42848a71b516bed23d921acfa6f_Control Panel_Idle_17.png",
+          "name": "Control Panel_Idle_17.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/e6e91c2d8b7998e0db13de8eca7df4b3533ce9e2ccdb41091943cc33d5bb5333_Control Panel_Idle_18.png",
+          "name": "Control Panel_Idle_18.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/4bb00558864db9cfc1a3b414d502b1ef5496e42848a71b516bed23d921acfa6f_Control Panel_Idle_19.png",
+          "name": "Control Panel_Idle_19.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/379ca43773cf1e95ef6bd4ece68e5519cfe3dacc530f0f9a61d73b937efcbb24_Control Panel_Idle_2.png",
+          "name": "Control Panel_Idle_2.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/a5028257695c278ec33697aeff3496e263341d8c336b2f94c32dd72190f0de01_Control Panel_Idle_20.png",
+          "name": "Control Panel_Idle_20.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/0ed05be186d6fc5b897563ac877684953507719f96b6c42a3cf9bc4e2d062187_Control Panel_Idle_3.png",
+          "name": "Control Panel_Idle_3.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/0ed05be186d6fc5b897563ac877684953507719f96b6c42a3cf9bc4e2d062187_Control Panel_Idle_4.png",
+          "name": "Control Panel_Idle_4.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/d42ccbd1dcb517df108c7689e4a7c5ba62f7ece8f73088bf1eafbad487a7def0_Control Panel_Idle_5.png",
+          "name": "Control Panel_Idle_5.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/957324b4f5a0be80b25fa9f88a23f9a789e68c267b46d05d4357297d4f651624_Control Panel_Idle_6.png",
+          "name": "Control Panel_Idle_6.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/d66370007e0a24ec365f0bfe22f699f3124fcf3811bd538487236fe737e48d60_Control Panel_Idle_7.png",
+          "name": "Control Panel_Idle_7.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/285d7b645b0dcd5383be6fb687bf7e40f476dfa72fee7839e5a3feb915ed2ea3_Control Panel_Idle_8.png",
+          "name": "Control Panel_Idle_8.png"
+        }
+      },
+      {
+        "file": "assets/Control Panel_Idle_40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Control Panel_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/99706c68297f791da923f52fec513b2490b182954f3ab141b0f08cf052112c8e_Control Panel_Idle_9.png",
+          "name": "Control Panel_Idle_9.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -5829,6 +6309,1482 @@
               }
             }
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "08745ab4eb29074474556d229e66f43065c091ae1af35d56558401ad2833a2bc",
+          "name": "Control_Panel",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Idle_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Deactivate",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Control Panel_Deactivate_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 3
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5945,6 +7901,9 @@
           },
           {
             "objectName": "Checkpoint"
+          },
+          {
+            "objectName": "Control_Panel"
           }
         ]
       },
