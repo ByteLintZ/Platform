@@ -8220,8 +8220,13 @@
           "name": "Platform1",
           "persistentUuid": "e05f88cc-8c5c-42d6-8ebd-a02a3a933517",
           "width": 269.3721008300781,
+<<<<<<< Updated upstream
           "x": 106,
           "y": 274,
+=======
+          "x": -352,
+          "y": 198,
+>>>>>>> Stashed changes
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -8370,8 +8375,8 @@
           "name": "BackgroundPlants",
           "persistentUuid": "03b6869d-198f-4807-b659-f2b863e21073",
           "width": 2272,
-          "x": -269,
-          "y": 201,
+          "x": -195,
+          "y": -250,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
