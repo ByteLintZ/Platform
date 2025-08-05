@@ -2838,6 +2838,54 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Player/5bf4c9614cf97fe0e1f7fe4f54144146bfab55ab5b53b6e08f79661aff58a83a_Player_Run_8.png",
           "name": "Player_Run_8.png"
         }
+      },
+      {
+        "file": "assets/tiled_Tile 10 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 10 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/d94da6ecc6d891b73c542cdbbe34093c4c5c1223a17cd267632ba53c7c6cc0b1_tiled_Tile 10 tiled sprite.png",
+          "name": "tiled_Tile 10 tiled sprite.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tile 5 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 5 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/029461d78c8a571782fc46bf643d78bbd0a3164070f59792618f1e3a554d4d15_tiled_Tile 5 tiled sprite.png",
+          "name": "tiled_Tile 5 tiled sprite.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tile 3 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 3 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/139f3b36f1420a4639943066a9d8d6a0229d18b0f29c00368da47d61c9b7993b_tiled_Tile 3 tiled sprite.png",
+          "name": "tiled_Tile 3 tiled sprite.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tile 33 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 33 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/db760bb664b2751e6afe4b6d5c0c865b2eefcb81ac6223fb7ac9f6db4fd92727_tiled_Tile 33 tiled sprite.png",
+          "name": "tiled_Tile 33 tiled sprite.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -2856,45 +2904,32 @@
   ],
   "layouts": [
     {
-      "b": 26,
+      "b": 131,
       "disableInputWhenNotFocused": true,
       "mangledName": "Level",
       "name": "Level",
-      "r": 11,
+      "r": 131,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 24,
+      "v": 131,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 8,
+        "gridHeight": 8,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 1.6080210545240567,
+        "snap": true,
+        "zoomFactor": 3.335485044730878,
         "windowMask": false
       },
       "objectsGroups": [
         {
           "name": "Platforms",
-          "objects": [
-            {
-              "name": "Platform1"
-            },
-            {
-              "name": "Platform2"
-            },
-            {
-              "name": "Platform3"
-            },
-            {
-              "name": "Platform4"
-            }
-          ]
+          "objects": []
         },
         {
           "name": "MobileControls",
@@ -3064,14 +3099,15 @@
         {
           "angle": 0,
           "customSize": false,
+          "flippedX": true,
           "height": 0,
           "keepRatio": true,
           "layer": "",
           "name": "Plant_Mutant",
           "persistentUuid": "69628a78-e52d-429a-bce0-6ef5ad1bffa6",
           "width": 0,
-          "x": 568,
-          "y": -729,
+          "x": 208,
+          "y": -608,
           "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
@@ -3079,16 +3115,33 @@
         },
         {
           "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "03b3be5f-07c7-4a0b-b02a-87f642addac8",
+          "width": 32,
+          "x": 136,
+          "y": -608,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
-          "name": "Bat",
-          "persistentUuid": "6b1dac3a-0131-420f-9a08-cbe68c6dcffd",
+          "layer": "UI",
+          "name": "ScoreText",
+          "persistentUuid": "44e580e1-c2b0-40d1-b785-1b59ea859fc0",
           "width": 0,
-          "x": 533,
-          "y": -646,
-          "zOrder": 65,
+          "x": 25,
+          "y": 66,
+          "zOrder": 67,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3099,12 +3152,109 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Player",
-          "persistentUuid": "03b3be5f-07c7-4a0b-b02a-87f642addac8",
+          "name": "Tile_17",
+          "persistentUuid": "d057d792-c2b3-4e8f-8f6d-5e6b82eeb3c7",
           "width": 0,
-          "x": 369,
-          "y": -660,
-          "zOrder": 66,
+          "x": 120,
+          "y": -576,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 608,
+          "keepRatio": true,
+          "layer": "Background",
+          "name": "Merged_Full_Background",
+          "persistentUuid": "b6c829e0-b72f-426d-a988-0800e0bb60d8",
+          "width": 1024,
+          "x": -32,
+          "y": -32,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_10_tiled_sprite",
+          "persistentUuid": "aec4dc2d-26a2-4074-8e55-379b19112678",
+          "width": 0,
+          "x": 144,
+          "y": -576,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_10_tiled_sprite",
+          "persistentUuid": "09640528-6f95-4010-bb37-2bd6e32fed6b",
+          "width": 0,
+          "x": 168,
+          "y": -576,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_10_tiled_sprite",
+          "persistentUuid": "e04cd1cb-fbb4-451e-b4d0-2bbf652619f8",
+          "width": 0,
+          "x": 192,
+          "y": -576,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_10_tiled_sprite",
+          "persistentUuid": "89de3484-dd7f-4d9c-b006-1184f766cf0b",
+          "width": 0,
+          "x": 216,
+          "y": -576,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_5_tiled_sprite",
+          "persistentUuid": "7ebfdd23-5e13-485a-8bf5-2127c7f914c0",
+          "width": 0,
+          "x": 104,
+          "y": -584,
+          "zOrder": 71,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3131,431 +3281,6 @@
             }
           ],
           "content": {}
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Platform1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Platform 1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 14
-                          },
-                          {
-                            "x": 259,
-                            "y": 14
-                          },
-                          {
-                            "x": 246,
-                            "y": 68.25
-                          },
-                          {
-                            "x": 32.5,
-                            "y": 69.75
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Platform2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            },
-            {
-              "name": "RectangleMovement",
-              "type": "RectangleMovement::RectangleMovement",
-              "Width": 200,
-              "Height": 0,
-              "Clockwise": true,
-              "HorizontalEdgeDuration": 3,
-              "VerticalEdgeDuration": 0,
-              "Left": 1,
-              "Top": 1,
-              "Progress": 1,
-              "OldX": 1,
-              "OldY": 1,
-              "Easing": "easeInOutSine",
-              "InitialPosition": "Top-left corner",
-              "ToogleClockwise": false
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Platform 2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11,
-                            "y": 14
-                          },
-                          {
-                            "x": 263,
-                            "y": 14
-                          },
-                          {
-                            "x": 257.5607604980469,
-                            "y": 46.77951431274414
-                          },
-                          {
-                            "x": 182.0052032470703,
-                            "y": 100.11284637451172
-                          },
-                          {
-                            "x": 99.22743225097656,
-                            "y": 88.44618225097656
-                          },
-                          {
-                            "x": 13.11631965637207,
-                            "y": 50.11284637451172
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Platform3",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Platform 3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 12,
-                            "y": 20
-                          },
-                          {
-                            "x": 216,
-                            "y": 20
-                          },
-                          {
-                            "x": 188.72869873046875,
-                            "y": 91.50568389892578
-                          },
-                          {
-                            "x": 50.09233093261719,
-                            "y": 91.05113983154297
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Platform4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Corner platform.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 18.75,
-                            "y": 22
-                          },
-                          {
-                            "x": 320,
-                            "y": 22
-                          },
-                          {
-                            "x": 320,
-                            "y": 265
-                          },
-                          {
-                            "x": 201.25,
-                            "y": 265
-                          },
-                          {
-                            "x": 23.125,
-                            "y": 90.3125
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Portal",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [
-            {
-              "effectType": "AdvancedBloom",
-              "name": "Effect",
-              "doubleParameters": {
-                "bloomScale": 0.7,
-                "blur": 4,
-                "brightness": 0.7,
-                "padding": 0,
-                "quality": 7,
-                "threshold": 0.5
-              },
-              "stringParameters": {},
-              "booleanParameters": {}
-            }
-          ],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Door.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 160,
-                            "y": 135
-                          },
-                          {
-                            "x": 240,
-                            "y": 135
-                          },
-                          {
-                            "x": 240,
-                            "y": 320
-                          },
-                          {
-                            "x": 160,
-                            "y": 320
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Ladder",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "Ladder",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\ladder.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         },
         {
           "additive": true,
@@ -3747,24 +3472,6 @@
         },
         {
           "assetStoreId": "",
-          "height": 78,
-          "name": "Clouds",
-          "texture": "assets\\Clouds.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 960,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "HorizontalTiledSpriteParallax",
-              "type": "Parallax::HorizontalTiledSpriteParallax",
-              "ParallaxFactor": 1.2,
-              "FollowedLayer": ""
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
           "bold": true,
           "italic": false,
           "name": "ScoreText",
@@ -3804,31 +3511,6 @@
             "characterSize": 40,
             "color": "255;255;255"
           }
-        },
-        {
-          "assetStoreId": "",
-          "height": 622,
-          "name": "BackgroundPlants",
-          "texture": "assets\\tiled_Background.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 1426,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "HorizontalTiledSpriteParallax",
-              "type": "Parallax::HorizontalTiledSpriteParallax",
-              "ParallaxFactor": 0.25,
-              "FollowedLayer": ""
-            },
-            {
-              "name": "VerticalTiledSpriteParallax",
-              "type": "Parallax::VerticalTiledSpriteParallax",
-              "ParallaxFactor": 0.3,
-              "FollowedLayer": "",
-              "OffsetY": 50
-            }
-          ]
         },
         {
           "adaptCollisionMaskAutomatically": false,
@@ -4039,47 +3721,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "assets\\boundary.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Moon",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Moon.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9629,7 +9270,44 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "isFolded": true,
+              "name": "PlatformerCharacterAnimator",
+              "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+              "EnableAnimationChanges": true,
+              "EnableHorizontalFlipping": true,
+              "IdleAnimationName": "Idle",
+              "RunAnimationName": "Run",
+              "JumpAnimationName": "Jump",
+              "FallAnimationName": "Fall",
+              "ClimbAnimationName": "Climb",
+              "PlatformerBehavior": "PlatformerObject",
+              "Animation": "Animation",
+              "Flippable": "Flippable"
+            },
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "useRepeatedJump": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "Walk",
@@ -10733,7 +10411,45 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "isFolded": true,
+              "name": "PlatformerCharacterAnimator",
+              "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
+              "EnableAnimationChanges": true,
+              "EnableHorizontalFlipping": true,
+              "IdleAnimationName": "Idle",
+              "RunAnimationName": "Run",
+              "JumpAnimationName": "Jump",
+              "FallAnimationName": "Fall",
+              "ClimbAnimationName": "Climb",
+              "PlatformerBehavior": "PlatformerObject",
+              "Animation": "Animation",
+              "Flippable": "Flippable"
+            },
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "isFolded": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "useRepeatedJump": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "Idle",
@@ -12056,30 +11772,109 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "1b661220e71e589d8c84b24b47fc825e412b4f71e2023384a8af4528ff9e1458",
+          "height": 24,
+          "name": "Tile_10_tiled_sprite",
+          "texture": "tiled_Tile 10 tiled sprite.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 24,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "78f45ef1347388464f5c05e397bc3318188a8d9da70d8e8e5bbd83e7b93e628d",
+          "height": 24,
+          "name": "Tile_5_tiled_sprite",
+          "texture": "tiled_Tile 5 tiled sprite.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 24,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "4fc78bae1d1bba045c3e8afc5b28941c3a7f3faa4faa9455d0a96b9b987b963d",
+          "height": 24,
+          "name": "Tile_3_tiled_sprite",
+          "texture": "tiled_Tile 3 tiled sprite.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 24,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "bb8b6990bcba8c6b7ece6be2472f903555ee4ab91ca77d1158c17d34c1ef9da1",
+          "height": 24,
+          "name": "Tile_33_tiled_sprite",
+          "texture": "tiled_Tile 33 tiled sprite.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 24,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "folderName": "Background",
+            "folderName": "Platforms",
             "children": [
               {
-                "objectName": "BackgroundPlants"
+                "objectName": "Tile_2"
               },
               {
-                "objectName": "Portal"
+                "objectName": "Tile_11"
               },
               {
-                "objectName": "Moon"
+                "objectName": "Tile_12"
               },
               {
-                "objectName": "Clouds"
+                "objectName": "Tile_5_tiled_sprite"
+              },
+              {
+                "objectName": "Tile_3_tiled_sprite"
+              },
+              {
+                "objectName": "Tile_33_tiled_sprite"
+              },
+              {
+                "objectName": "Tile_10_tiled_sprite"
+              },
+              {
+                "objectName": "Tile_17"
+              },
+              {
+                "objectName": "Tile_9"
+              },
+              {
+                "objectName": "Tile_8"
               }
             ]
           },
           {
-            "folderName": "Markers",
+            "folderName": "Importants",
+            "children": [
+              {
+                "objectName": "Trampoline"
+              },
+              {
+                "objectName": "Mushroom"
+              },
+              {
+                "objectName": "Plant_Mutant"
+              },
+              {
+                "objectName": "Player"
+              }
+            ]
+          },
+          {
+            "folderName": "Boundaries",
             "children": [
               {
                 "objectName": "TopBoundary"
@@ -12116,26 +11911,6 @@
             ]
           },
           {
-            "folderName": "Platforms",
-            "children": [
-              {
-                "objectName": "Platform1"
-              },
-              {
-                "objectName": "Platform2"
-              },
-              {
-                "objectName": "Platform3"
-              },
-              {
-                "objectName": "Platform4"
-              },
-              {
-                "objectName": "Ladder"
-              }
-            ]
-          },
-          {
             "folderName": "UI",
             "children": [
               {
@@ -12157,9 +11932,6 @@
                 "objectName": "ScreenOrientationChecker"
               }
             ]
-          },
-          {
-            "objectName": "Trampoline"
           },
           {
             "objectName": "Merged_Full_Background"
@@ -12222,12 +11994,6 @@
             "objectName": "Tile_1"
           },
           {
-            "objectName": "Tile_11"
-          },
-          {
-            "objectName": "Tile_12"
-          },
-          {
             "objectName": "Tile_13"
           },
           {
@@ -12243,16 +12009,10 @@
             "objectName": "Tile_16"
           },
           {
-            "objectName": "Tile_17"
-          },
-          {
             "objectName": "Tile_18"
           },
           {
             "objectName": "Tile_19"
-          },
-          {
-            "objectName": "Tile_2"
           },
           {
             "objectName": "Tile_20"
@@ -12303,12 +12063,6 @@
             "objectName": "Tile_29"
           },
           {
-            "objectName": "Tile_8"
-          },
-          {
-            "objectName": "Tile_9"
-          },
-          {
             "objectName": "Bat"
           },
           {
@@ -12327,22 +12081,13 @@
             "objectName": "Frog_Tongue"
           },
           {
-            "objectName": "Mushroom"
-          },
-          {
             "objectName": "Dark_Guard"
           },
           {
             "objectName": "Skull_Slime"
           },
           {
-            "objectName": "Plant_Mutant"
-          },
-          {
             "objectName": "Necromancer"
-          },
-          {
-            "objectName": "Player"
           }
         ]
       },
@@ -13795,7 +13540,7 @@
           "isLocked": false,
           "name": "Background",
           "renderingType": "2d",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         },
@@ -13880,14 +13625,6 @@
           "type": "FlippableCapability::FlippableBehavior"
         },
         {
-          "name": "HorizontalTiledSpriteParallax",
-          "type": "Parallax::HorizontalTiledSpriteParallax"
-        },
-        {
-          "name": "MonsterEnemy",
-          "type": "Enemy::MonsterEnemy"
-        },
-        {
           "name": "MultitouchButton",
           "type": "MultitouchJoystick::MultitouchButton"
         },
@@ -13904,20 +13641,8 @@
           "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator"
         },
         {
-          "name": "PlatformerGamepadMapper",
-          "type": "Gamepads::PlatformerGamepadMapper"
-        },
-        {
-          "name": "PlatformerMultitouchMapper",
-          "type": "MultitouchJoystick::PlatformerMultitouchMapper"
-        },
-        {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior"
-        },
-        {
-          "name": "RectangleMovement",
-          "type": "RectangleMovement::RectangleMovement"
         },
         {
           "name": "Resizable",
@@ -13932,20 +13657,8 @@
           "type": "ShakeObject::ShakeObject_PositionAngle"
         },
         {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
-        },
-        {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
-        },
-        {
-          "name": "VerticalTiledSpriteParallax",
-          "type": "Parallax::VerticalTiledSpriteParallax"
         }
       ]
     }
