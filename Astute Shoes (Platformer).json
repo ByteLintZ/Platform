@@ -2886,6 +2886,66 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/db760bb664b2751e6afe4b6d5c0c865b2eefcb81ac6223fb7ac9f6db4fd92727_tiled_Tile 33 tiled sprite.png",
           "name": "tiled_Tile 33 tiled sprite.png"
         }
+      },
+      {
+        "file": "assets/Box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Box.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Decor/1816737b415716116bd10d876b8696d00c6e8bb21c77ee74901e37ddf7d679ff_Box.png",
+          "name": "Box.png"
+        }
+      },
+      {
+        "file": "assets/tiled_Tile 6 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tile 6 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Tiles/606b4c80378c145bdf077be760878363f0e2e06808c108692b0b99aad9acc6df_tiled_Tile 6 tiled sprite.png",
+          "name": "tiled_Tile 6 tiled sprite.png"
+        }
+      },
+      {
+        "file": "assets/Checkpoint_Off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Off.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Objects/7c46bb2e0fe6b24f88eef3cf24f1a7167ce95f9ca9e897a00872ff49fc2803eb_Checkpoint_Off.png",
+          "name": "Checkpoint_Off.png"
+        }
+      },
+      {
+        "file": "assets/Checkpoint_On.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_On.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Objects/736f16838c6c60f8cc3e665616307b240fbe6b80a00e3fa8c52567b061fbaebe_Checkpoint_On.png",
+          "name": "Checkpoint_On.png"
+        }
+      },
+      {
+        "file": "assets/Spikes.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Spikes.png\",\"extension\":\".png\"}",
+        "name": "Spikes.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spikes/9728e7ce3b9e8fc40dd7f91a8553a1d6818f5e4026cdbe05293716d4fc796b12_Spikes.png",
+          "name": "Spikes.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -2914,7 +2974,7 @@
       "title": "",
       "v": 131,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 8,
         "gridHeight": 8,
@@ -2922,8 +2982,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 3.335485044730878,
+        "snap": false,
+        "zoomFactor": 5.861529792408734,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3255,6 +3315,170 @@
           "x": 104,
           "y": -584,
           "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_5_tiled_sprite",
+          "persistentUuid": "1d395439-a21a-4d8f-a1c0-deb9294d701e",
+          "width": 0,
+          "x": 104,
+          "y": -608,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_5_tiled_sprite",
+          "persistentUuid": "8ea58a7c-50f0-4058-a410-5a5fa820ae92",
+          "width": 0,
+          "x": 104,
+          "y": -632,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_12",
+          "persistentUuid": "259721fe-4f53-454e-9c94-5d36c951ca29",
+          "width": 0,
+          "x": 104,
+          "y": -656,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_6_tiled_sprite",
+          "persistentUuid": "def168ad-c79b-4d61-a4f5-0635868ca8fb",
+          "width": 0,
+          "x": 80,
+          "y": -656,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_6_tiled_sprite",
+          "persistentUuid": "04cb1dfb-d576-41a5-a139-389097d87899",
+          "width": 0,
+          "x": 56,
+          "y": -656,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 88,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3_tiled_sprite",
+          "persistentUuid": "a8c0fed9-2986-4eaf-aab5-ae0b407f6f5c",
+          "width": 72,
+          "x": 32,
+          "y": -632,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 88,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3_tiled_sprite",
+          "persistentUuid": "6e5589c0-57c8-44e1-8685-ce178a8b89e3",
+          "width": 72,
+          "x": 56,
+          "y": -560,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 88,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3_tiled_sprite",
+          "persistentUuid": "bb7ed180-112c-42ab-8384-883e388e2a55",
+          "width": 160,
+          "x": 96,
+          "y": -552,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "f7406970-a992-4f5c-a36d-b1b93e695606",
+          "width": 0,
+          "x": 160,
+          "y": -600,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Spikes",
+          "persistentUuid": "e7c7a7e3-bbf9-4f7c-ad97-a1f2614d7e55",
+          "width": 16,
+          "x": 192,
+          "y": -592,
+          "zOrder": 77,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5922,7 +6146,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -6282,7 +6514,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -10448,6 +10688,79 @@
               "useRepeatedJump": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
+            },
+            {
+              "isFolded": true,
+              "name": "SmoothCamera",
+              "type": "SmoothCamera::SmoothCamera",
+              "LeftwardSpeed": 0.9,
+              "RightwardSpeed": 0.9,
+              "UpwardSpeed": 0.9,
+              "DownwardSpeed": 0.9,
+              "FollowOnX": true,
+              "FollowOnY": true,
+              "FollowFreeAreaLeft": 0,
+              "FollowFreeAreaRight": 0,
+              "FollowFreeAreaTop": 0,
+              "FollowFreeAreaBottom": 0,
+              "CameraOffsetX": 0,
+              "CameraOffsetY": 0,
+              "CameraDelay": 0,
+              "ForecastTime": 0,
+              "ForecastHistoryDuration": 0,
+              "LogLeftwardSpeed": 2.0247e-320,
+              "LogRightwardSpeed": 2.0247e-320,
+              "LogDownwardSpeed": 2.0247e-320,
+              "LogUpwardSpeed": 2.0247e-320,
+              "DelayedCenterX": 2.0247e-320,
+              "DelayedCenterY": 2.0247e-320,
+              "ForecastHistoryMeanX": 2.0247e-320,
+              "ForecastHistoryMeanY": 2.0247e-320,
+              "ForecastHistoryVarianceX": 2.0247e-320,
+              "ForecastHistoryCovariance": 2.0247e-320,
+              "ForecastHistoryLinearA": 2.0247e-320,
+              "ForecastHistoryLinearB": 2.0247e-320,
+              "ForecastedX": 2.0247e-320,
+              "ForecastedY": 2.0247e-320,
+              "ProjectedNewestX": 2.0247e-320,
+              "ProjectedNewestY": 2.0247e-320,
+              "ProjectedOldestX": 2.0247e-320,
+              "ProjectedOldestY": 2.0247e-320,
+              "ForecastHistoryVarianceY": 2.0247e-320,
+              "Index": 2.0247e-320,
+              "CameraDelayCatchUpSpeed": 0,
+              "CameraExtraDelay": 2.0247e-320,
+              "WaitingSpeedXMax": 2.0247e-320,
+              "WaitingSpeedYMax": 2.0247e-320,
+              "WaitingEnd": 2.0247e-320,
+              "CameraDelayCatchUpDuration": 2.0247e-320,
+              "LeftwardSpeedMax": 9000,
+              "RightwardSpeedMax": 9000,
+              "UpwardSpeedMax": 9000,
+              "DownwardSpeedMax": 9000,
+              "OldX": 9000.000000007454,
+              "OldY": 9000.000000007454,
+              "IsCalledManually": false
+            },
+            {
+              "isFolded": true,
+              "name": "SmoothPlatformerCamera",
+              "type": "SmoothCamera::SmoothPlatformerCamera",
+              "PlatformerCharacter": "PlatformerObject",
+              "SmoothCamera": "SmoothCamera",
+              "JumpOriginY": 1.3519747858422847e-306,
+              "AirFollowFreeAreaTop": 0,
+              "AirFollowFreeAreaBottom": 0,
+              "FloorFollowFreeAreaTop": 0,
+              "FloorFollowFreeAreaBottom": 0,
+              "AirUpwardSpeed": 0.95,
+              "AirDownwardSpeed": 0.95,
+              "FloorUpwardSpeed": 0.9,
+              "FloorDownwardSpeed": 0.9,
+              "AirUpwardSpeedMax": 9000,
+              "AirDownwardSpeedMax": 9000,
+              "FloorUpwardSpeedMax": 9000,
+              "FloorDownwardSpeedMax": 9000
             }
           ],
           "animations": [
@@ -11782,7 +12095,15 @@
           "width": 24,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "assetStoreId": "78f45ef1347388464f5c05e397bc3318188a8d9da70d8e8e5bbd83e7b93e628d",
@@ -11793,7 +12114,15 @@
           "width": 24,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "assetStoreId": "4fc78bae1d1bba045c3e8afc5b28941c3a7f3faa4faa9455d0a96b9b987b963d",
@@ -11816,6 +12145,246 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "1ea980f692eaa754e4f5cd874d1b47a7950af2e333ec696d824d1b6b6f6882f7",
+          "name": "Box",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Box.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 19
+                          },
+                          {
+                            "x": 26,
+                            "y": 19
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "cbaf8aa850aaf737b49192ab153ecef910582f6d62ea0390bf26bdd6e60a2db7",
+          "height": 24,
+          "name": "Tile_6_tiled_sprite",
+          "texture": "tiled_Tile 6 tiled sprite.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 24,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "77263f6326219cbe9528f4b8626a5058e9b0e0d284e535172ccced6ad385a167",
+          "name": "Checkpoint",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "On",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Checkpoint_On.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 21,
+                            "y": 4
+                          },
+                          {
+                            "x": 21,
+                            "y": 24
+                          },
+                          {
+                            "x": 3,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Off",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Checkpoint_Off.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 21,
+                            "y": 4
+                          },
+                          {
+                            "x": 21,
+                            "y": 24
+                          },
+                          {
+                            "x": 3,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "ad5eec3101f5acd69d381481f39db03d7eabbf96c9681c66bee04f5e78f38a85",
+          "name": "Spikes",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Spikes",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spikes.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 10
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 1,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -11824,6 +12393,9 @@
           {
             "folderName": "Platforms",
             "children": [
+              {
+                "objectName": "Tile_6_tiled_sprite"
+              },
               {
                 "objectName": "Tile_2"
               },
@@ -11859,6 +12431,12 @@
           {
             "folderName": "Importants",
             "children": [
+              {
+                "objectName": "Box"
+              },
+              {
+                "objectName": "Checkpoint"
+              },
               {
                 "objectName": "Trampoline"
               },
@@ -12088,6 +12666,9 @@
           },
           {
             "objectName": "Necromancer"
+          },
+          {
+            "objectName": "Spikes"
           }
         ]
       },
@@ -13655,6 +14236,14 @@
         {
           "name": "ShakeObject_PositionAngle",
           "type": "ShakeObject::ShakeObject_PositionAngle"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "SmoothPlatformerCamera",
+          "type": "SmoothCamera::SmoothPlatformerCamera"
         },
         {
           "name": "Text",
