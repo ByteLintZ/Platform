@@ -1314,6 +1314,18 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/99706c68297f791da923f52fec513b2490b182954f3ab141b0f08cf052112c8e_Control Panel_Idle_9.png",
           "name": "Control Panel_Idle_9.png"
         }
+      },
+      {
+        "file": "assets/Tileset Piece 28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tileset Piece 28.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Tileset/8fca2b62adeb652549e4cec79dfd8d98e7f395f1116a5f7bc61da1cf084665b9_Tileset Piece 28.png",
+          "name": "Tileset Piece 28.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -7785,6 +7797,126 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c4b7693a6e50ec6261d6782160014ee3e6f5da426f43003271a7bd7e28f1da9b",
+          "name": "Tileset_Piece_28",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tileset Piece 28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c4b7693a6e50ec6261d6782160014ee3e6f5da426f43003271a7bd7e28f1da9b",
+          "name": "Tileset_Piece_29",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tileset Piece 28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -7904,6 +8036,12 @@
           },
           {
             "objectName": "Control_Panel"
+          },
+          {
+            "objectName": "Tileset_Piece_28"
+          },
+          {
+            "objectName": "Tileset_Piece_29"
           }
         ]
       },
