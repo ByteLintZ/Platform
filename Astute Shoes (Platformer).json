@@ -6147,6 +6147,18 @@
                             "JumpButton",
                             "\"255;255;255\""
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "Portal",
+                            "12",
+                            "12",
+                            ""
+                          ]
                         }
                       ]
                     }
