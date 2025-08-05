@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 231,
+    "build": 238,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -973,8 +973,8 @@
           "name": "Player",
           "persistentUuid": "531d1c3f-aae2-413f-ba87-81f0b6673f1b",
           "width": 72,
-          "x": 221,
-          "y": 147,
+          "x": 829,
+          "y": 167,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -988,8 +988,8 @@
           "name": "Ladder",
           "persistentUuid": "5e31f97d-bdfa-44ce-b525-f6bb1b99bdb5",
           "width": 67.35904693603516,
-          "x": 549,
-          "y": 179,
+          "x": 95,
+          "y": 292,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1218,8 +1218,8 @@
           "name": "Platform3",
           "persistentUuid": "897ece0a-9bc4-470b-9d60-5bdc29242124",
           "width": 232.15505981445312,
-          "x": 409,
-          "y": 388,
+          "x": -27,
+          "y": -18,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1248,8 +1248,8 @@
           "name": "Platform1",
           "persistentUuid": "e05f88cc-8c5c-42d6-8ebd-a02a3a933517",
           "width": 269.3721008300781,
-          "x": 106,
-          "y": 274,
+          "x": 561,
+          "y": 239,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1368,8 +1368,8 @@
           "name": "Fly",
           "persistentUuid": "1989e88d-b9a1-4d50-bf0e-59255f899d23",
           "width": 0,
-          "x": 366,
-          "y": 172,
+          "x": -12,
+          "y": 6,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -8233,9 +8233,6 @@
               "type": "Number",
               "unit": "Dimensionless",
               "label": "Maximum score",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "MaxScore"
             }
           ],
@@ -8364,18 +8361,12 @@
               "value": "0.5",
               "type": "Number",
               "label": "Parallax factor (speed for the parallax, usually between 0 and 1)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ParallaxFactor"
             },
             {
               "value": "",
               "type": "String",
               "label": "Layer to be followed (leave empty for the base layer)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "FollowedLayer"
             }
           ],
@@ -8465,18 +8456,12 @@
               "value": "0.5",
               "type": "Number",
               "label": "Parallax factor (speed for the parallax, usually between 0 and 1)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ParallaxFactor"
             },
             {
               "value": "",
               "type": "String",
               "label": "Layer to be followed (leave empty for the base layer)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "FollowedLayer"
             },
             {
@@ -8484,9 +8469,6 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Offset on Y axis",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "OffsetY"
             }
           ],
@@ -9615,8 +9597,6 @@
               "type": "Boolean",
               "label": "",
               "description": "Should check hovering",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ShouldCheckHovering"
             },
@@ -9624,8 +9604,6 @@
               "value": "Idle",
               "type": "Choice",
               "label": "State",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Idle",
                 "Hovered",
@@ -9640,9 +9618,6 @@
               "value": "0",
               "type": "Number",
               "label": "Touch id",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -9650,9 +9625,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Touch is inside",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchIsInside"
             },
@@ -9660,9 +9632,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Mouse is inside",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "MouseIsInside"
             },
@@ -9670,9 +9639,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "Index"
             }
@@ -11070,9 +11036,6 @@
               "value": "",
               "type": "MultilineString",
               "label": "Label",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "LabelText"
             },
             {
@@ -11080,9 +11043,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Hovered fade out duration",
-              "description": "",
               "group": "States",
-              "extraInformation": [],
               "name": "HoveredFadeOutDuration"
             },
             {
@@ -11090,9 +11051,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Label offset on Y axis when pressed",
-              "description": "",
               "group": "States",
-              "extraInformation": [],
               "name": "PressedLabelOffsetY"
             },
             {
@@ -11100,9 +11059,6 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "LabelOffset"
             },
@@ -11110,8 +11066,6 @@
               "value": "",
               "type": "Choice",
               "label": "",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Label.Text=LabelText"
               ],
@@ -12662,71 +12616,53 @@
               "value": "true",
               "type": "Boolean",
               "label": "Enable animation changes",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "EnableAnimationChanges"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Enable horizontal flipping",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "EnableHorizontalFlipping"
             },
             {
               "value": "Idle",
               "type": "String",
               "label": "\"Idle\" animation name ",
-              "description": "",
               "group": "Animation names",
-              "extraInformation": [],
               "name": "IdleAnimationName"
             },
             {
               "value": "Run",
               "type": "String",
               "label": "\"Run\" animation name",
-              "description": "",
               "group": "Animation names",
-              "extraInformation": [],
               "name": "RunAnimationName"
             },
             {
               "value": "Jump",
               "type": "String",
               "label": "\"Jump\" animation name",
-              "description": "",
               "group": "Animation names",
-              "extraInformation": [],
               "name": "JumpAnimationName"
             },
             {
               "value": "Fall",
               "type": "String",
               "label": "\"Fall\" animation name",
-              "description": "",
               "group": "Animation names",
-              "extraInformation": [],
               "name": "FallAnimationName"
             },
             {
               "value": "Climb",
               "type": "String",
               "label": "\"Climb\" animation name",
-              "description": "",
               "group": "Animation names",
-              "extraInformation": [],
               "name": "ClimbAnimationName"
             },
             {
               "value": "",
               "type": "Behavior",
               "label": "Platformer character",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -12736,8 +12672,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Animatable capacity",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
@@ -12747,8 +12681,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Flippable capacity",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "FlippableCapability::FlippableBehavior"
               ],
@@ -16494,9 +16426,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Width",
-              "description": "",
               "group": "Dimension",
-              "extraInformation": [],
               "name": "Width"
             },
             {
@@ -16504,18 +16434,14 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Height",
-              "description": "",
               "group": "Dimension",
-              "extraInformation": [],
               "name": "Height"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Clockwise",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "Clockwise"
             },
             {
@@ -16523,9 +16449,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Horizontal edge duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "HorizontalEdgeDuration"
             },
             {
@@ -16533,18 +16457,13 @@
               "type": "Number",
               "unit": "Second",
               "label": "Vertical edge duration",
-              "description": "",
               "group": "Speed",
-              "extraInformation": [],
               "name": "VerticalEdgeDuration"
             },
             {
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "Left"
             },
@@ -16552,9 +16471,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "Top"
             },
@@ -16562,9 +16478,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "Progress"
             },
@@ -16572,9 +16485,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "OldX"
             },
@@ -16582,9 +16492,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "OldY"
             },
@@ -16592,7 +16499,6 @@
               "value": "easeInOutSine",
               "type": "Choice",
               "label": "Easing",
-              "description": "",
               "group": "Speed",
               "extraInformation": [
                 "linear",
@@ -16635,8 +16541,6 @@
               "value": "Top-left corner",
               "type": "Choice",
               "label": "Initial position",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Top-left corner",
                 "Top-right corner",
@@ -16649,9 +16553,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ToogleClockwise"
             }
@@ -21110,54 +21011,40 @@
               "value": "0.9",
               "type": "Number",
               "label": "Leftward catch-up speed (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "LeftwardSpeed"
             },
             {
               "value": "0.9",
               "type": "Number",
               "label": "Rightward catch-up speed (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "RightwardSpeed"
             },
             {
               "value": "0.9",
               "type": "Number",
               "label": "Upward catch-up speed (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "UpwardSpeed"
             },
             {
               "value": "0.9",
               "type": "Number",
               "label": "Downward catch-up speed (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "DownwardSpeed"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Follow on X axis",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "FollowOnX"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Follow on Y axis",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "FollowOnY"
             },
             {
@@ -21165,9 +21052,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area left border",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "advanced": true,
               "name": "FollowFreeAreaLeft"
             },
@@ -21176,9 +21061,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area right border",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "advanced": true,
               "name": "FollowFreeAreaRight"
             },
@@ -21187,9 +21070,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area top border",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "advanced": true,
               "name": "FollowFreeAreaTop"
             },
@@ -21198,9 +21079,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area bottom border",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "advanced": true,
               "name": "FollowFreeAreaBottom"
             },
@@ -21209,9 +21088,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Camera offset X",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "advanced": true,
               "name": "CameraOffsetX"
             },
@@ -21220,9 +21097,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Camera offset Y",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "advanced": true,
               "name": "CameraOffsetY"
             },
@@ -21231,9 +21106,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Camera delay",
-              "description": "",
               "group": "Timing",
-              "extraInformation": [],
               "deprecated": true,
               "name": "CameraDelay"
             },
@@ -21242,9 +21115,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Forecast time",
-              "description": "",
               "group": "Timing",
-              "extraInformation": [],
               "deprecated": true,
               "name": "ForecastTime"
             },
@@ -21253,9 +21124,7 @@
               "type": "Number",
               "unit": "Second",
               "label": "Forecast history duration",
-              "description": "",
               "group": "Timing",
-              "extraInformation": [],
               "deprecated": true,
               "name": "ForecastHistoryDuration"
             },
@@ -21263,9 +21132,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "LogLeftwardSpeed"
             },
@@ -21273,9 +21139,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "LogRightwardSpeed"
             },
@@ -21283,9 +21146,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "LogDownwardSpeed"
             },
@@ -21293,9 +21153,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "LogUpwardSpeed"
             },
@@ -21303,9 +21160,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "DelayedCenterX"
             },
@@ -21313,9 +21167,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "DelayedCenterY"
             },
@@ -21323,9 +21174,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastHistoryMeanX"
             },
@@ -21333,9 +21181,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastHistoryMeanY"
             },
@@ -21343,9 +21188,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastHistoryVarianceX"
             },
@@ -21353,9 +21195,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastHistoryCovariance"
             },
@@ -21363,9 +21202,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastHistoryLinearA"
             },
@@ -21373,9 +21209,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastHistoryLinearB"
             },
@@ -21383,9 +21216,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastedX"
             },
@@ -21393,9 +21223,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastedY"
             },
@@ -21403,9 +21230,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ProjectedNewestX"
             },
@@ -21413,9 +21237,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ProjectedNewestY"
             },
@@ -21423,9 +21244,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ProjectedOldestX"
             },
@@ -21433,9 +21251,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ProjectedOldestY"
             },
@@ -21443,9 +21258,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ForecastHistoryVarianceY"
             },
@@ -21453,9 +21265,6 @@
               "value": "",
               "type": "Number",
               "label": "Index (local variable)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "Index"
             },
@@ -21463,9 +21272,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CameraDelayCatchUpSpeed"
             },
@@ -21473,9 +21279,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CameraExtraDelay"
             },
@@ -21483,9 +21286,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "WaitingSpeedXMax"
             },
@@ -21493,9 +21293,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "WaitingSpeedYMax"
             },
@@ -21503,9 +21300,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "WaitingEnd"
             },
@@ -21513,9 +21307,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CameraDelayCatchUpDuration"
             },
@@ -21524,9 +21315,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Leftward maximum speed",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "advanced": true,
               "name": "LeftwardSpeedMax"
             },
@@ -21535,9 +21324,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Rightward maximum speed",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "advanced": true,
               "name": "RightwardSpeedMax"
             },
@@ -21546,9 +21333,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Upward maximum speed",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "advanced": true,
               "name": "UpwardSpeedMax"
             },
@@ -21557,9 +21342,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Downward maximum speed",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "advanced": true,
               "name": "DownwardSpeedMax"
             },
@@ -21567,9 +21350,6 @@
               "value": "",
               "type": "Number",
               "label": "OldX (local variable)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "OldX"
             },
@@ -21577,9 +21357,6 @@
               "value": "",
               "type": "Number",
               "label": "OldY (local variable)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "OldY"
             },
@@ -21587,9 +21364,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsCalledManually"
             }
@@ -21823,8 +21597,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -21834,8 +21606,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Smooth camera behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "SmoothCamera::SmoothCamera"
               ],
@@ -21845,9 +21615,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "JumpOriginY"
             },
@@ -21856,9 +21623,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area top in the air",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "name": "AirFollowFreeAreaTop"
             },
             {
@@ -21866,9 +21631,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area bottom in the air",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "name": "AirFollowFreeAreaBottom"
             },
             {
@@ -21876,9 +21639,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area top on the floor",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "name": "FloorFollowFreeAreaTop"
             },
             {
@@ -21886,45 +21647,35 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Follow free area bottom on the floor",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "name": "FloorFollowFreeAreaBottom"
             },
             {
               "value": "0.95",
               "type": "Number",
               "label": "Upward speed in the air (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "AirUpwardSpeed"
             },
             {
               "value": "0.95",
               "type": "Number",
               "label": "Downward speed in the air (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "AirDownwardSpeed"
             },
             {
               "value": "0.9",
               "type": "Number",
               "label": "Upward speed on the floor (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "FloorUpwardSpeed"
             },
             {
               "value": "0.9",
               "type": "Number",
               "label": "Downward speed on the floor (in ratio per second)",
-              "description": "",
               "group": "Catch-up speed",
-              "extraInformation": [],
               "name": "FloorDownwardSpeed"
             },
             {
@@ -21932,9 +21683,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Upward maximum speed in the air",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "name": "AirUpwardSpeedMax"
             },
             {
@@ -21942,9 +21691,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Downward maximum speed in the air",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "name": "AirDownwardSpeedMax"
             },
             {
@@ -21952,9 +21699,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Upward maximum speed on the floor",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "name": "FloorUpwardSpeedMax"
             },
             {
@@ -21962,9 +21707,7 @@
               "type": "Number",
               "unit": "PixelSpeed",
               "label": "Downward maximum speed on the floor",
-              "description": "",
               "group": "Maximum speed",
-              "extraInformation": [],
               "name": "FloorDownwardSpeedMax"
             }
           ],
@@ -25342,8 +25085,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platformer character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -25353,43 +25094,33 @@
               "value": "1",
               "type": "Number",
               "label": "Gamepad identifier (1, 2, 3 or 4)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "GamepadIdentifier"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Use directional pad",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseArrows"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Use left stick",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseLeftStick"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Use right stick",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseRightStick"
             },
             {
               "value": "A or Cross",
               "type": "Choice",
               "label": "Jump button",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "A or Cross",
@@ -25528,8 +25259,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -25539,16 +25268,12 @@
               "value": "1",
               "type": "Number",
               "label": "Gamepad identifier (1, 2, 3 or 4)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "GamepadIdentifier"
             },
             {
               "value": "Left",
               "type": "Choice",
               "label": "Walk joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Left",
@@ -25560,7 +25285,6 @@
               "value": "A or Cross",
               "type": "Choice",
               "label": "Jump button",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "A or Cross",
@@ -25688,8 +25412,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -25699,16 +25421,12 @@
               "value": "1",
               "type": "Number",
               "label": "Gamepad identifier (1, 2, 3 or 4)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "GamepadIdentifier"
             },
             {
               "value": "Left",
               "type": "Choice",
               "label": "Walk joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Left",
@@ -25720,7 +25438,6 @@
               "value": "Right",
               "type": "Choice",
               "label": "Camera joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Left",
@@ -25732,7 +25449,6 @@
               "value": "A or Cross",
               "type": "Choice",
               "label": "Jump button",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "A or Cross",
@@ -26675,8 +26391,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Scene3D::Base3DBehavior"
               ],
@@ -26686,17 +26400,12 @@
               "value": "1",
               "type": "Number",
               "label": "Gamepad identifier (1, 2, 3 or 4)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "GamepadIdentifier"
             },
             {
               "value": "Right",
               "type": "Choice",
               "label": "Camera joystick",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Left",
                 "Right"
@@ -26708,27 +26417,21 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationSpeedMax"
             },
             {
               "value": "360",
               "type": "Number",
               "label": "Rotation acceleration",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationAcceleration"
             },
             {
               "value": "720",
               "type": "Number",
               "label": "Rotation deceleration",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationDeceleration"
             },
             {
@@ -26736,27 +26439,21 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationSpeedMax"
             },
             {
               "value": "240",
               "type": "Number",
               "label": "Rotation acceleration",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationAcceleration"
             },
             {
               "value": "480",
               "type": "Number",
               "label": "Rotation deceleration",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationDeceleration"
             },
             {
@@ -26764,9 +26461,7 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Minimum angle",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalAngleMin"
             },
             {
@@ -26774,9 +26469,7 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Maximum angle",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalAngleMax"
             },
             {
@@ -26784,9 +26477,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Z position offset",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "name": "OffsetZ"
             },
             {
@@ -26794,9 +26485,6 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Z",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedZ"
             },
@@ -26805,9 +26493,6 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Y",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedY"
             }
@@ -27107,8 +26792,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics car",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCar3D"
               ],
@@ -27118,43 +26801,33 @@
               "value": "1",
               "type": "Number",
               "label": "Gamepad identifier (1, 2, 3 or 4)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "GamepadIdentifier"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Use directional pad",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseArrows"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Use left stick",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseLeftStick"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Use right stick",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseRightStick"
             },
             {
               "value": "B or Circle",
               "type": "Choice",
               "label": "Hand brake button",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "A or Cross",
@@ -27758,8 +27431,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Top-down movement behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "TopDownMovementBehavior::TopDownMovementBehavior"
               ],
@@ -27769,43 +27440,33 @@
               "value": "1",
               "type": "Number",
               "label": "Gamepad identifier (1, 2, 3 or 4)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "GamepadIdentifier"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Use directional pad",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseArrows"
             },
             {
               "value": "true",
               "type": "Boolean",
               "label": "Use left stick",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseLeftStick"
             },
             {
               "value": "",
               "type": "Boolean",
               "label": "Use right stick",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "UseRightStick"
             },
             {
               "value": "Analog",
               "type": "Choice",
               "label": "Stick mode",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Analog",
@@ -30862,18 +30523,12 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "String",
               "label": "Joystick name",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "JoystickIdentifier"
             },
             {
@@ -30881,17 +30536,12 @@
               "type": "Number",
               "label": "Dead zone radius (range: 0 to 1)",
               "description": "The deadzone is an area for which movement on sticks won't be taken into account (instead, the stick will be considered as not moved)",
-              "group": "",
-              "extraInformation": [],
               "name": "DeadZoneRadius"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "Joystick angle (range: -180 to 180)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "JoystickAngle"
             },
@@ -30899,9 +30549,6 @@
               "value": "0",
               "type": "Number",
               "label": "Joystick force (range: 0 to 1)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "JoystickForce"
             },
@@ -30909,9 +30556,6 @@
               "value": "0",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -30919,9 +30563,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchIndex"
             }
@@ -31318,27 +30959,18 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "A",
               "type": "String",
               "label": "Button identifier",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ButtonIdentifier"
             },
             {
               "value": "0",
               "type": "Number",
               "label": "TouchID",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchId"
             },
@@ -31346,9 +30978,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "TouchIndex"
             },
@@ -31356,9 +30985,6 @@
               "value": "",
               "type": "Boolean",
               "label": "Button released",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsReleased"
             },
@@ -31368,8 +30994,6 @@
               "unit": "Pixel",
               "label": "Triggering circle radius",
               "description": "This circle adds up to the object collision mask.",
-              "group": "",
-              "extraInformation": [],
               "name": "Radius"
             }
           ],
@@ -31558,8 +31182,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Platform character behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
@@ -31569,16 +31191,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -31590,9 +31208,7 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -31702,8 +31318,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -31713,16 +31327,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Walk joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -31734,9 +31344,7 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -31835,8 +31443,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics character",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCharacter3D"
               ],
@@ -31846,16 +31452,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Walk joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -31867,9 +31469,7 @@
               "value": "A",
               "type": "String",
               "label": "Jump button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "JumpButton"
             }
           ],
@@ -32801,8 +32401,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Scene3D::Base3DBehavior"
               ],
@@ -32812,16 +32410,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Secondary",
               "type": "Choice",
               "label": "Camera joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -32834,27 +32428,21 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationSpeedMax"
             },
             {
               "value": "360",
               "type": "Number",
               "label": "Rotation acceleration",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationAcceleration"
             },
             {
               "value": "720",
               "type": "Number",
               "label": "Rotation deceleration",
-              "description": "",
               "group": "Horizontal rotation",
-              "extraInformation": [],
               "name": "HorizontalRotationDeceleration"
             },
             {
@@ -32862,27 +32450,21 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Maximum rotation speed",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationSpeedMax"
             },
             {
               "value": "240",
               "type": "Number",
               "label": "Rotation acceleration",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationAcceleration"
             },
             {
               "value": "480",
               "type": "Number",
               "label": "Rotation deceleration",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalRotationDeceleration"
             },
             {
@@ -32890,9 +32472,7 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Minimum angle",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalAngleMin"
             },
             {
@@ -32900,9 +32480,7 @@
               "type": "Number",
               "unit": "DegreeAngle",
               "label": "Maximum angle",
-              "description": "",
               "group": "Vertical rotation",
-              "extraInformation": [],
               "name": "VerticalAngleMax"
             },
             {
@@ -32910,9 +32488,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Z position offset",
-              "description": "",
               "group": "Position",
-              "extraInformation": [],
               "name": "OffsetZ"
             },
             {
@@ -32920,9 +32496,6 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Z",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedZ"
             },
@@ -32931,9 +32504,6 @@
               "type": "Number",
               "unit": "AngularSpeed",
               "label": "Current rotation speed Y",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "CurrentRotationSpeedY"
             }
@@ -33062,8 +32632,6 @@
               "value": "",
               "type": "Behavior",
               "label": "3D physics car",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Physics3D::PhysicsCar3D"
               ],
@@ -33073,16 +32641,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Steer joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -33094,7 +32658,6 @@
               "value": "Secondary",
               "type": "Choice",
               "label": "Speed joystick",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Primary",
@@ -33106,9 +32669,7 @@
               "value": "B",
               "type": "String",
               "label": "Hand brake button name",
-              "description": "",
               "group": "Controls",
-              "extraInformation": [],
               "name": "HandBrakeButton"
             }
           ],
@@ -33630,8 +33191,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Top-down movement behavior",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "TopDownMovementBehavior::TopDownMovementBehavior"
               ],
@@ -33641,17 +33200,12 @@
               "value": "1",
               "type": "Number",
               "label": "Controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Primary",
                 "Secondary"
@@ -33662,7 +33216,6 @@
               "value": "Analog",
               "type": "Choice",
               "label": "Stick mode",
-              "description": "",
               "group": "Controls",
               "extraInformation": [
                 "Analog",
@@ -34910,17 +34463,12 @@
               "value": "1",
               "type": "Number",
               "label": "Multitouch controller identifier (1, 2, 3, 4...)",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "ControllerIdentifier"
             },
             {
               "value": "Primary",
               "type": "Choice",
               "label": "Joystick name",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "Primary",
                 "Secondary"
@@ -34932,8 +34480,6 @@
               "type": "Number",
               "label": "Dead zone radius (range: 0 to 1)",
               "description": "The deadzone is an area for which movement on sticks won't be taken into account (instead, the stick will be considered as not moved)",
-              "group": "",
-              "extraInformation": [],
               "name": "DeadZoneRadius"
             },
             {
@@ -34941,7 +34487,6 @@
               "type": "String",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
               "extraInformation": [
                 "Thumb"
               ],
@@ -34953,8 +34498,6 @@
               "type": "Number",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ThumbAnchorTarget"
             },
@@ -34963,7 +34506,6 @@
               "type": "Boolean",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
               "extraInformation": [
                 "Thumb"
               ],
@@ -34975,8 +34517,6 @@
               "type": "String",
               "label": "",
               "description": "Only used by the scene editor.",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ParentOrigin"
             },
@@ -34984,9 +34524,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "ShouldBeHiddenWhenReleased"
             }
@@ -39403,8 +38940,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Scalable capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
@@ -39414,9 +38949,6 @@
               "value": "",
               "type": "Number",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "name": "Property"
             }
           ],
@@ -39972,8 +39504,6 @@
               "value": "",
               "type": "Behavior",
               "label": "Animatable capability",
-              "description": "",
-              "group": "",
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
@@ -41297,9 +40827,6 @@
               "value": "",
               "type": "Boolean",
               "label": "",
-              "description": "",
-              "group": "",
-              "extraInformation": [],
               "hidden": true,
               "name": "IsShown"
             },
@@ -41308,8 +40835,6 @@
               "type": "Boolean",
               "label": "Force show the screen",
               "description": "Use this to test the screen in your game",
-              "group": "",
-              "extraInformation": [],
               "name": "IsForceShown"
             },
             {
@@ -41317,9 +40842,7 @@
               "type": "Number",
               "unit": "Pixel",
               "label": "Padding",
-              "description": "",
               "group": "Appearance",
-              "extraInformation": [],
               "name": "Padding"
             },
             {
@@ -41329,16 +40852,13 @@
               "label": "Corner radius",
               "description": "Corner radius for the background",
               "group": "Appearance",
-              "extraInformation": [],
               "name": "CornerRadius"
             },
             {
               "value": "0;0;0",
               "type": "Color",
               "label": "Background color",
-              "description": "",
               "group": "Appearance",
-              "extraInformation": [],
               "name": "BackgroundColor"
             }
           ],
