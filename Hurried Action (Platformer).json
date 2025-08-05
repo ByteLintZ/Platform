@@ -1326,6 +1326,798 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Tileset/8fca2b62adeb652549e4cec79dfd8d98e7f395f1116a5f7bc61da1cf084665b9_Tileset Piece 28.png",
           "name": "Tileset Piece 28.png"
         }
+      },
+      {
+        "file": "assets/Cat 1_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/63b6fefe7375d52758e381c7016e6e05fcab9578e9464a253ab2f722ae41a1eb_Cat 1_Idle_1.png",
+          "name": "Cat 1_Idle_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/d5cf28a672b2967f907ad2a0df975d824fa646985fdbf77b9d50f3e41b23aa7e_Cat 1_Idle_10.png",
+          "name": "Cat 1_Idle_10.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/679d4102b461e6fe1bbee9b70621ea63148e2cc4a44599120046d3eabb8ff2e3_Cat 1_Idle_2.png",
+          "name": "Cat 1_Idle_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/f3747f1e7c5ca5e7865e09cfd45e536b31ab3e7aac5f826b57b5e557103af32f_Cat 1_Idle_3.png",
+          "name": "Cat 1_Idle_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/588722dbcbf37c829b70a2c675434097dcb47f583d96fef150daa68a8c5c528e_Cat 1_Idle_4.png",
+          "name": "Cat 1_Idle_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/fa2b2ea37206ab1f77b650eed3e829e7a88117097aae422d5c6aefaecf9dc0fa_Cat 1_Idle_5.png",
+          "name": "Cat 1_Idle_5.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/fa2b2ea37206ab1f77b650eed3e829e7a88117097aae422d5c6aefaecf9dc0fa_Cat 1_Idle_6.png",
+          "name": "Cat 1_Idle_6.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/f717bddabf2e32fec7a94ce5be8d819e7c58ae3faafc0a26f28f1ac2f5ec82ba_Cat 1_Idle_7.png",
+          "name": "Cat 1_Idle_7.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/42458e00e91e07ef62da61db8eb779798105b4e5dbf7734722d92633aabbe994_Cat 1_Idle_8.png",
+          "name": "Cat 1_Idle_8.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/ec3cc751c2c260f2d2ef2d59775e19176bcb0ee470cb024b7fcbe9ee4c1ac20e_Cat 1_Idle_9.png",
+          "name": "Cat 1_Idle_9.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Itch_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Itch_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/545c991988f83a286816b225040f365fd6f349f5ae945db2aede4d512773cf35_Cat 1_Itch_1.png",
+          "name": "Cat 1_Itch_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Itch_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Itch_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/41ebf03b0ec52534b3d7700043e7410ef26934f620bfbb05ba354790b136b8b1_Cat 1_Itch_2.png",
+          "name": "Cat 1_Itch_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/a84ae16dca759e19a364e85c6cc40e9d187d3dd9fcf8a09186a2ef1f0d4f1231_Cat 1_Laying_1.png",
+          "name": "Cat 1_Laying_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/702a83bf331413a889d6642eaebfb0dbb9a56e3d527467fa2d85c2fe14818598_Cat 1_Laying_2.png",
+          "name": "Cat 1_Laying_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/a7fdff1add95c732c85e4fe9968d97d52cd4e9b0c50804a183caf5cc56cdcea5_Cat 1_Laying_3.png",
+          "name": "Cat 1_Laying_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/dca6bddec0ae1aa28908f06f68771ec0abf5599a8850bce5339629031f3098b1_Cat 1_Laying_4.png",
+          "name": "Cat 1_Laying_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/3ed7bafdcb29c78a8b567037831cae7db08c777b98d384d1a43933af75a1f492_Cat 1_Laying_5.png",
+          "name": "Cat 1_Laying_5.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/df8b187294fae1864636efd8fa1fb4c860744f9cfa67429c6b85ce64492ba4c8_Cat 1_Laying_6.png",
+          "name": "Cat 1_Laying_6.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/ec6507a0c00eea92d95292dff2cb653d5dce4255d7d412e3714c630805b3be59_Cat 1_Laying_7.png",
+          "name": "Cat 1_Laying_7.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Laying_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Laying_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/56be06d53289182e90af1763eabd93885af42ceaf7b027825caa6a5be6d43f3d_Cat 1_Laying_8.png",
+          "name": "Cat 1_Laying_8.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 1_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/0383564bbc4bd9affa27eb231fa3be323f2e8580bd40f4018634edb7d4274c01_Cat 1_Licking 1_1.png",
+          "name": "Cat 1_Licking 1_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 1_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/01560ec71301f8b7aea0b6e56fc89b73fdce1a6fe9974583dab5790536474fc5_Cat 1_Licking 1_2.png",
+          "name": "Cat 1_Licking 1_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 1_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/bea879626a352a6e11a82bc0cdb40a9ef3e0b0fe7423539b47755c4d7878be7c_Cat 1_Licking 1_3.png",
+          "name": "Cat 1_Licking 1_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 1_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/1b142f14187ff220babc2c72348436744900a0f7c79b544c86b0d269501112db_Cat 1_Licking 1_4.png",
+          "name": "Cat 1_Licking 1_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 1_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 1_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/0383564bbc4bd9affa27eb231fa3be323f2e8580bd40f4018634edb7d4274c01_Cat 1_Licking 1_5.png",
+          "name": "Cat 1_Licking 1_5.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 2_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/60445a692416a496307de9c8e945a221940aca3034e1a7cae00d0c4ec46fa056_Cat 1_Licking 2_1.png",
+          "name": "Cat 1_Licking 2_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 2_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 2_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/0ac6a15d53de93205df11f841151498e874b9661e3287261d9eaeb3409280603_Cat 1_Licking 2_2.png",
+          "name": "Cat 1_Licking 2_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 2_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 2_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/5efcacebea603824a283e30bdc3beaa2dc9ed4401fee92b2b50c98bfbf4a6fc1_Cat 1_Licking 2_3.png",
+          "name": "Cat 1_Licking 2_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 2_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 2_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/d3aa7ffd3c966902ce89d06f8522b639bfff08169e73bff4b8e690a455fe4366_Cat 1_Licking 2_4.png",
+          "name": "Cat 1_Licking 2_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Licking 2_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Licking 2_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/60445a692416a496307de9c8e945a221940aca3034e1a7cae00d0c4ec46fa056_Cat 1_Licking 2_5.png",
+          "name": "Cat 1_Licking 2_5.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Meow_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Meow_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/7f55909cbff39d89f122e96489a4943ae9e38955a77d6e82e4af933fffaf52a9_Cat 1_Meow_1.png",
+          "name": "Cat 1_Meow_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Meow_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Meow_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/f18e5d27ae955f90852ba2dc3e1e03853b00296a0027eebb529d9255c08187d5_Cat 1_Meow_2.png",
+          "name": "Cat 1_Meow_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Meow_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Meow_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/5f684404c31949b9ec74ee5bb790aba87171691ba6ab7a8f43fc387851be54fb_Cat 1_Meow_3.png",
+          "name": "Cat 1_Meow_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Meow_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Meow_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/49ae7d0409c8673b438b3b0ca713f50351820e70765fb174e241b2c2d795d3ba_Cat 1_Meow_4.png",
+          "name": "Cat 1_Meow_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/5fc6b54e01fe3ac7d1797a6caf507957af11deadc6f3a030d84ce8925b1e0c77_Cat 1_Run_1.png",
+          "name": "Cat 1_Run_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/83df5ee4d8122f61f860c4afab3cfbf6df42755bbc6e7d78cabd72a047caf528_Cat 1_Run_2.png",
+          "name": "Cat 1_Run_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/a304b03f0291bc5b9565af4bbcbb206159eebf8240e7b50139f153a8023c7cf0_Cat 1_Run_3.png",
+          "name": "Cat 1_Run_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/6928b585959c4e133e8286246fb756c79ca3e791fe9a6d36f4b3a445ee03e02e_Cat 1_Run_4.png",
+          "name": "Cat 1_Run_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/a22035bc30939d45ac3eb6de6ddb3a04cab181cf884d49b67c433f0345f1679a_Cat 1_Run_5.png",
+          "name": "Cat 1_Run_5.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/117a40a38bcf13e2dabad7b030b8c9306c123d338457de253a0d45209692fb50_Cat 1_Run_6.png",
+          "name": "Cat 1_Run_6.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/c14d9d527c96361fbb4326a3b7b29d3a1b59a6b4f5b1b779e13ffd6d82972aa3_Cat 1_Run_7.png",
+          "name": "Cat 1_Run_7.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/317a5c160b231878c7fc7854a3ab3a773a0088a06d91e4aded63f9ef24ac684d_Cat 1_Run_8.png",
+          "name": "Cat 1_Run_8.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Sitting.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Sitting.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/7b597dd05ec998d08336ff361cfcd6a88c78d645fdcfd0e7b8554ae5eee2545c_Cat 1_Sitting.png",
+          "name": "Cat 1_Sitting.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Sleeping1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Sleeping1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/f003b701d83ef1d0242780fd21cca182ae2bbfb17e82b3086c8605fae6b615ec_Cat 1_Sleeping1.png",
+          "name": "Cat 1_Sleeping1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Sleeping2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Sleeping2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/64d71974f198f36f73207910b1ec20ce662a81897c8a679e03962a23ac9e1f83_Cat 1_Sleeping2.png",
+          "name": "Cat 1_Sleeping2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/870ce95fa6c2dd86e45f7e8d2304269785a3154820b2bb5c520702cc8370a1f9_Cat 1_Stretching_1.png",
+          "name": "Cat 1_Stretching_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/066897aa46f4cbcd71f72f1b140bc30f2b01673f904f28b9f6e7128855406683_Cat 1_Stretching_10.png",
+          "name": "Cat 1_Stretching_10.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/066897aa46f4cbcd71f72f1b140bc30f2b01673f904f28b9f6e7128855406683_Cat 1_Stretching_11.png",
+          "name": "Cat 1_Stretching_11.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/c3142481b51feb798fe2c284bdecaa45790d7acd5e2cd41d85cc6b5a14877f06_Cat 1_Stretching_12.png",
+          "name": "Cat 1_Stretching_12.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/bcd56cce985443cbaa312bc9b6e905d7b503208ce2bd52e6ec52742fa31437a7_Cat 1_Stretching_13.png",
+          "name": "Cat 1_Stretching_13.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/2011909705569a78861873d4cf6ee2f479e23b1d2909fec426be6e5e2312fd5e_Cat 1_Stretching_2.png",
+          "name": "Cat 1_Stretching_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/1a9721c0964e5ea0ab1461d817d86e20e3a795880498b255f0dfd182bd1079c7_Cat 1_Stretching_3.png",
+          "name": "Cat 1_Stretching_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/bc71c52e4afc7e8d6d649f32b53723d0ce3b951aa0a2a1bf684cecd0f472a5a9_Cat 1_Stretching_4.png",
+          "name": "Cat 1_Stretching_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/f15c0ebf411e30d2b9c2e0db2b5b3ee611f163acb16c69e3ce3df493405007eb_Cat 1_Stretching_5.png",
+          "name": "Cat 1_Stretching_5.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/fa53f9148287c87b76ef6d0f849425d3af6c82a0e0723d2bdf8ffda964e7d0d5_Cat 1_Stretching_6.png",
+          "name": "Cat 1_Stretching_6.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/e0c5032c71576ea73014b1a4f83a97705eb1d98b01a01e85dd352092781ca8ae_Cat 1_Stretching_7.png",
+          "name": "Cat 1_Stretching_7.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/e0c5032c71576ea73014b1a4f83a97705eb1d98b01a01e85dd352092781ca8ae_Cat 1_Stretching_8.png",
+          "name": "Cat 1_Stretching_8.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Stretching_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Stretching_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/b956d1678086b717a2a1bc4ab0b85094a390238bd34444bb3674609c5a4a4562_Cat 1_Stretching_9.png",
+          "name": "Cat 1_Stretching_9.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/bf44d8ce0f83e2edbe00d6c430df0f5703500807008a768de7e0f5aedd64f1a6_Cat 1_Walk_1.png",
+          "name": "Cat 1_Walk_1.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/3764844e5ab9a2792e46f22ef3c4a4f86e74d4e8266cc4e57c3b7e885e8a546a_Cat 1_Walk_2.png",
+          "name": "Cat 1_Walk_2.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/98932c5c604e4bb9c211a5c9fc22dbb6c21bd69199ba6316406fd60c73d22581_Cat 1_Walk_3.png",
+          "name": "Cat 1_Walk_3.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/b31e9e7349fc9defe4d399f6501c1c2de7f8a26d05223ccb393f300e4a4fe31b_Cat 1_Walk_4.png",
+          "name": "Cat 1_Walk_4.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/650467ac1ce8ae0e6df637becd338a3d92aa241b37f6f508b57401d201a9c398_Cat 1_Walk_5.png",
+          "name": "Cat 1_Walk_5.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/4bd6b2f6c2f3efedec464b93c813e20421f3b24430f322d4cce9d66a2fda3dc1_Cat 1_Walk_6.png",
+          "name": "Cat 1_Walk_6.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/64b45ffb57b247a710dd74f602d534c303c1bfc194a4cbaf6348974f235a5af9_Cat 1_Walk_7.png",
+          "name": "Cat 1_Walk_7.png"
+        }
+      },
+      {
+        "file": "assets/Cat 1_Walk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat 1_Walk_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pet Cats/Cat 1/8aa4e65a02390c392a9cda39bdd2dd598d7e3addce710a814359e1c2f48516f2_Cat 1_Walk_8.png",
+          "name": "Cat 1_Walk_8.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1363,7 +2155,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6567637531652039,
+        "zoomFactor": 0.4872834459806055,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1890,8 +2682,8 @@
           "name": "BackgroundPlants",
           "persistentUuid": "03b6869d-198f-4807-b659-f2b863e21073",
           "width": 2272,
-          "x": 0,
-          "y": -25,
+          "x": -269,
+          "y": 201,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2014,6 +2806,182 @@
           "x": 0,
           "y": 0,
           "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cat_1",
+          "persistentUuid": "6fc7b485-ba55-42c0-b915-2fd1314c29de",
+          "width": 0,
+          "x": 483,
+          "y": 334,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cat_1",
+          "persistentUuid": "219c80de-3695-4d32-af02-400afb9ca020",
+          "width": 0,
+          "x": 633,
+          "y": 16,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cat_1",
+          "persistentUuid": "c8781eb6-0e5a-4f83-93a8-25a69b3007e2",
+          "width": 0,
+          "x": 11,
+          "y": -5,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Control_Panel",
+          "persistentUuid": "d251f615-4663-440f-ae07-4259efe21a87",
+          "width": 0,
+          "x": 604,
+          "y": -15,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Cat_1",
+          "persistentUuid": "0cff76bb-6f9f-477b-bb40-745e8218eb43",
+          "width": 0,
+          "x": 620,
+          "y": 227,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tileset_Piece_28",
+          "persistentUuid": "0654badd-f1f8-4bf7-a5b8-64cc44c3d200",
+          "width": 0,
+          "x": 530,
+          "y": 67,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Coin",
+          "persistentUuid": "418d89b6-f581-44c2-859d-c6d3486cc415",
+          "width": 0,
+          "x": 639,
+          "y": 158,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "871b2956-5f1d-4ee0-a738-9f33aad4992b",
+          "width": 0,
+          "x": 540,
+          "y": 116,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "0bbba340-6bdb-4451-9016-f4f00257ac47",
+          "width": 0,
+          "x": 197,
+          "y": 151,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "0815d25f-4331-4a71-b858-df25a54f4c75",
+          "width": 0,
+          "x": 132,
+          "y": 30,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Control_Panel",
+          "persistentUuid": "ec96f2b6-005f-4b5c-941f-561c3cc33875",
+          "width": 0,
+          "x": 524,
+          "y": -204,
+          "zOrder": 72,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7917,6 +8885,2538 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "e16c99e12ad849eb48edf08ecd1b98cd078418da4aef4e369adc1cdc9066e7f4",
+          "name": "Cat_1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.0833,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Idle_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Walk_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.0833,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Run_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Itch",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Itch_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Itch_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Laying",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Laying_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Licking 1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 1_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 1_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 1_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 1_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 1_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Licking 2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 2_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 2_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 2_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 2_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Licking 2_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Meow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Meow_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Meow_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Meow_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Meow_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sitting",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Sitting.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sleeping1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Sleeping1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sleeping2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Sleeping2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stretching",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.0833,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cat 1_Stretching_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 18
+                          },
+                          {
+                            "x": 35,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8042,6 +11542,9 @@
           },
           {
             "objectName": "Tileset_Piece_29"
+          },
+          {
+            "objectName": "Cat_1"
           }
         ]
       },
