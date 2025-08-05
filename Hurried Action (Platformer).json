@@ -36441,6 +36441,16 @@
                             "JumpButton",
                             "\"255;255;255\""
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "Rotate"
+                          },
+                          "parameters": [
+                            "Portal",
+                            "123",
+                            ""
+                          ]
                         }
                       ]
                     }
